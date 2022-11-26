@@ -1,1 +1,1 @@
-# bash-training
+# Bash Training
